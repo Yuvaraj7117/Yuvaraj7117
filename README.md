@@ -18,37 +18,20 @@ Welcome to my GitHub playground! I'm Yuvaraj P, a passionate Frontend Engineer w
 
 ### Frontend Frameworks/Libraries
 - React.js
-- Vue.js
-
-### State Management
-- Redux
-- Vuex
+- Bootstrap
 
 ### Tools & Technologies
 - Git
-- Webpack
 - Babel
 - npm / Yarn
 - Responsive Design
 - UI/UX Design Principles
-
-## Projects
-
-Here's a glimpse of some projects I've worked on:
-
-1. [Project Name](link_to_project) - Brief description of the project.
-2. [Project Name](link_to_project) - Brief description of the project.
-3. [Project Name](link_to_project) - Brief description of the project.
-
-Explore more of my projects on [my portfolio website](https://www.yourportfolio.com).
 
 ## Let's Connect
 
 Let's chat about code, design, or anything in between! Connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile/) - Let's network professionally!
-- [Twitter](https://twitter.com/your_twitter_profile) - Follow me for tech updates and occasional memes.
-- [Portfolio Website](https://www.yourportfolio.com) - Discover more about my work and expertise.
 
 Feel free to drop me a message or open an issue in any of my repositories. I'm always up for interesting discussions, collaborations, or just a friendly "Hello!"
 

@@ -7,7 +7,7 @@ Welcome to my GitHub playground! I'm Yuvaraj P, a passionate Frontend Engineer w
 - 🚀 Always on the quest to learn and grow in the ever-evolving landscape of web development.
 - 💡 I thrive on challenges and enjoy brainstorming innovative solutions to real-world problems.
 - 🌱 Currently exploring advanced frontend frameworks like React.js and Vue.js to build scalable and performant applications.
-- 📫 Reach out to me at [your_email@example.com](mailto:your_email@example.com) for any inquiries or collaborations.
+- 📫 Reach out to me at (mailto:kingimmanuel1221@gmail.com) for any inquiries or collaborations.
 
 ## Tech Stack
 

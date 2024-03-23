@@ -32,9 +32,8 @@
 <!-- Contact and Social Links -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/yuvaraj p" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/yuvarajp63" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
   <a href="mailto:danielguna494@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" /></a>
 </p>
 
 <!-- Footer -->
